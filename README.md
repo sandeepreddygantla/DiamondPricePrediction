@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 
 ## Data
-The project uses the `gemstone.csv` dataset located in the `data/` directory. This dataset contains valuable information about diamonds, such as carat weight, cut quality, color, clarity, depth percentage, table size, dimensions (x, y, z), and price.
+The project uses the `gemstone.csv` dataset. This dataset contains valuable information about diamonds, such as carat weight, cut quality, color, clarity, depth percentage, table size, dimensions (x, y, z), and price.
 
 ## Exploratory Data Analysis (EDA)
 An in-depth Exploratory Data Analysis (EDA) has been performed to gain insights into the dataset, which comprises 193,573 rows and 11 columns. These columns encompass both numerical and categorical features, including custom rankings for ordinal variables.
